@@ -4,4 +4,4 @@ NPM     : 2106702150
 
 Kelas   : F
 
-Hobi    : Tidur
+Hobi    : Tidur lagi
